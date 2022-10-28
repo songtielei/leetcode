@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=1 lang=java
+ * @lc app=leetcode.cn id=1 lang=java
  *
- * [1] Two Sum
+ * [1] 两数之和
  */
 
 // @lc code=start
