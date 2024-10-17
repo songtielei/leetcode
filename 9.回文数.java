@@ -10,6 +10,13 @@ class Solution {
         if ( x < 0) {
             return false;
         }
+        int temp = x;
+        int aa = 0;
+        while (temp != 0) {
+            aa = aa * 10 + temp % 10;
+            temp = temp / 10;
+        }
+        return aa == x;
 
     }
 }
